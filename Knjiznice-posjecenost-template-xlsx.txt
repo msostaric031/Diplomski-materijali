@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="https://oziz.ffos.hr/knjiznice-posjecenost#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" 
+xmlns:dc="http://purl.org/dc/terms/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"   
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#1">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	225</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-01T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#2">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	225</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-02T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#3">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-03T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#4">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-04T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#5">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-05T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#6">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-06T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#7">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-07T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#8">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-08T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#9">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-09T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#10">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-10T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#11">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-11T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#12">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-12T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#13">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-13T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#14">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	230</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-14T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#15">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-15T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#16">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-16T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#17">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	216</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-17T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#18">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-18T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#19">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	245</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-19T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#20">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	245</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-20T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#21">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	246</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-21T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#22">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	244</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-22T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#23">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	244</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-23T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#24">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	238</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-24T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#25">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	239</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-25T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#26">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	241</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-26T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#27">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	232</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-27T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#28">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	233</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-28T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#29">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-29T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#30">
+
+	<naziv>Gradska i sveučilišna knjižnica Osijek</naziv>
+	<akronim>GISKO</akronim>
+
+	<uri rdf:resource="www.gskos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-30T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#31">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-01T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#32">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-02T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#33">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-03T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#34">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-04T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#35">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-05T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#36">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	234</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-06T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#37">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	234</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-07T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#38">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	234</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-08T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#39">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	234</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-09T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#40">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-10T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#41">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-11T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#42">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-12T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#43">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-13T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#44">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	232</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-14T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#45">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	233</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-15T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#46">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	233</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-16T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#47">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	232</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-17T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#48">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	234</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-18T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#49">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-19T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#50">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	236</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-20T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#51">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	233</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-21T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#52">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	237</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-22T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#53">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	233</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-23T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#54">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-24T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#55">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-25T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#56">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	235</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-26T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#57">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	232</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-27T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#58">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	231</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-28T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#59">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-29T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#60">
+
+	<naziv>Gradska knjižnica Beli Manastir</naziv>
+	<akronim>GKBM</akronim>
+
+	<uri rdf:resource="www.gkbm.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-30T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#61">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	879</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-01T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#62">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	885</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-02T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#63">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	887</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-03T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#64">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	889</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-04T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#65">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	889</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-05T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#66">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	911</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-06T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#67">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	886</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-07T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#68">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	875</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-08T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#69">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	874</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-09T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#70">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	880</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-10T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#71">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	890</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-11T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#72">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	895</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-12T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#73">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	901</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-13T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#74">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	897</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-14T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#75">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	890</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-15T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#76">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	893</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-16T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#77">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	894</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-17T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#78">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	887</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-18T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#79">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	885</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-19T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#80">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	874</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-20T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#81">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	876</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-21T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#82">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	897</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-22T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#83">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	890</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-23T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#84">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	891</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-24T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#85">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	907</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-25T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#86">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	896</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-26T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#87">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	888</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-27T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#88">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	884</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-28T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#89">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-29T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#90">
+
+	<naziv>Knjižnica Poljoprivrednog instituta</naziv>
+	<akronim>KPI</akronim>
+
+	<uri rdf:resource="www.poljinos.hr" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-30T00:00:00Z</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#91">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#92">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#93">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#94">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#95">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#96">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#97">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#98">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#99">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#100">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#101">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#102">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#103">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#104">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#105">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#106">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#107">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#108">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#109">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#110">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#111">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#112">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#113">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#114">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#115">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#116">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#117">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#118">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#119">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice><posjecenost_knjiznice rdf:about="https://oziz.ffos.hr/knjiznice-posjecenost#120">
+
+	<naziv>null</naziv>
+	<akronim>null</akronim>
+
+	<uri rdf:resource="null" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	null</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">null</datum>
+	
+</posjecenost_knjiznice></rdf:RDF>

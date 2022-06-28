@@ -1,0 +1,31 @@
+<!-- For Prefix -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns="https://oziz.ffos.hr/knjiznice-posjecenost#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  
+xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+xmlns:isbd="http://iflastandards.info/ns/isbd/elements/" 
+xmlns:dc="http://purl.org/dc/terms/" 
+xmlns:foaf="http://xmlns.com/foaf/0.1/"   
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> 
+
+<!-- For Row Template -->
+
+<posjecenost_knjiznice rdf:about="{{jsonize(cells["Posjecenost"].value).replace('"', '')}}">
+
+	<naziv>{{jsonize(cells["Naziv_knjiznice"].value).replace('"', '')}}</naziv>
+	<akronim>{{jsonize(cells["Akronim_knjiznice"].value).replace('"', '')}}</akronim>
+
+	<uri rdf:resource="{{jsonize(cells["URI_knjiznice"].value).replace('"', '')}}" />
+	<posjecenost rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">
+	{{jsonize(cells["Posjecenost_knjiznice_po_danu"].value).replace('"', '')}}</posjecenost>
+	
+	<datum rdf:datatype="http://www.w3.org/2001/XMLSchema#date">{{jsonize(cells		["Datum_posjecenosti"].value).replace('"', '')}}</datum>
+	
+</posjecenost_knjiznice>
+    
+<!-- Don't put anything in Row Separator -->
+
+<!-- For Suffix -->
+
+</rdf:RDF>
